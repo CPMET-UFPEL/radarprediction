@@ -12,4 +12,3 @@ Ferret needs a initial condition for make predictions and he show the path of ce
 - Basemap
 - Hagelslag
 - Pyart
-- 
